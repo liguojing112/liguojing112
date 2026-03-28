@@ -17,7 +17,7 @@
 ---
 ## 😉 Pleased to meet you!
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+LiGuojing;Full-stack+Developer+|+AI;Building+Smart+Tools&font=Fira%20Code&center=true&width=440&height=45&color=FFB6C1&vCenter=true&size=22&pause=1000" />
 </p>
 
