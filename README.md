@@ -92,12 +92,12 @@
 ## 📫 Let's Connect
 
 - 📧 **QQ邮箱**: 3425228104@qq.com  
-- 💬 **Telegram**: [liguojing112](https://t.me/liguojing112)  
+- 🐳 **Telegram**: [liguojing112](https://t.me/liguojing112)  
 - 🐦 **X**: [@BoHai91545](https://x.com/BoHai91545)  
 - 👤 **Facebook**: [Bo Hai](https://www.facebook.com/profile.php?id=61577504247349)  
-- 🌐 **电鸭社区**: [个人主页](https://eleduck.com/profile/info)  
+- 🌐 **eleduck**: [Personal Homepage](https://eleduck.com/profile/info)  
 - 🐙 **GitHub**: [liguojing112](https://github.com/liguojing112)  
-- 💬 **微信**：扫码添加  
+- 💬 **WeChat**：Scan the QR code to add
   <img src="assets/wechat_qr.jpg" width="120" />
 
 ---
