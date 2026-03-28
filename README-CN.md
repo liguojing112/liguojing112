@@ -1,7 +1,16 @@
 <!-- 动态欢迎语 -->
 ## 🔤语言/Language
 
-
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <img src="https://img.shields.io/badge/📖%20本文为中文版-FFB6C1?style=flat-square" />
+    <img src="https://img.shields.io/badge/EN%20Please%20read%20the%20English%20version-181717?style=flat-square" />
+  </div>
+  <div>
+    <a href="README.md"><img src="https://img.shields.io/badge/English-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    <a href="README-CN.md"><img src="https://img.shields.io/badge/中文版-FFB6C1?style=flat-square&logo=github&logoColor=white"/></a>
+  </div>
+</div>
 
 ---
 
