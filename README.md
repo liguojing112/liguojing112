@@ -1,5 +1,5 @@
 <!-- Dynamic welcome message -->
-## 😉 Pleased to meet you！
+## 😉 Pleased to meet you!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+LiGuojing;Full-stack+Developer+|+AI;Building+Smart+Tools&font=Fira%20Code&center=true&width=440&height=45&color=FFB6C1&vCenter=true&size=22&pause=1000" />
@@ -9,15 +9,16 @@
 
 <!-- Contact badges -->
 
-## 🌐 Social networking platform
+## 🌐 Social networking (Xiaohaibo)
 
 <p align="center">
   <a href="https://github.com/liguojing112"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://x.com/BoHai91545"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="mailto:3425228104@qq.com"><img src="https://img.shields.io/badge/QQ%20Mail-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white"/></a>
+  <a href="https://x.com/BoHai91545"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="mailto:3425228104@qq.com"><img src="https://img.shields.io/badge/QQ%20Mail-FFB800?style=flat-square&logo=tencent-qq&logoColor=white"/></a>
   <a href="https://t.me/guojingli"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=61577504247349"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <a href="https://eleduck.com/profile/info"><img src="https://img.shields.io/badge/eleduck.com-00A67E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTEgMTVoLTJ2LTJoMnYyem0wLTRoLTJWN2gydjZ6Ii8+PC9zdmc+&logoColor=white"/></a>
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAR6Fgqa8_D9FR6_9CLXZ9TP5Oj_xzbaC_HUvfbHdVwwFoNrbYf4Gn8w3Q5KAyQBtH"><img src="https://img.shields.io/badge/Douyin-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
+  <a href="https://eleduck.com/profile/info"><img src="https://img.shields.io/badge/Eleduck-00A67E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTEgMTVoLTJ2LTJoMnYyem0wLTRoLTJWN2gydjZ6Ii8+PC9zdmc+&logoColor=white"/></a>
 </p>
 
 ---
@@ -89,21 +90,9 @@
 
 ## 📫 Let's Connect
 
-- 📧 **QQ邮箱**: 3425228104@qq.com  
-- 🐳 **Telegram**: [liguojing112](https://t.me/liguojing112)  
-- 🐦 **X**: [@BoHai91545](https://x.com/BoHai91545)  
-- 👤 **Facebook**: [Bo Hai](https://www.facebook.com/profile.php?id=61577504247349)  
-- 🌐 **eleduck**: [Personal Homepage](https://eleduck.com/profile/info)  
-- 🐙 **GitHub**: [liguojing112](https://github.com/liguojing112)  
-- 💬 **WeChat**：Scan the QR code to add
-  <img src="assets/wechat_qr.jpg" width="120" />
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=liguojing112&color=blue&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/liguojing112?style=flat-square&logo=github" />
-</p>
+| Contact Methods | WeChat QR Code |
+|-----------------|----------------|
+| 📧 **QQ Mail**: 3425228104@qq.com<br>💬 **Telegram**: [guojingli](https://t.me/guojingli)<br>🐦 **X**: [@BoHai91545](https://x.com/BoHai91545)<br>👤 **Facebook**: [Bo Hai](https://www.facebook.com/profile.php?id=61577504247349)<br>🎵 **Douyin**: [Profile](https://www.douyin.com/user/MS4wLjABAAAAR6Fgqa8_D9FR6_9CLXZ9TP5Oj_xzbaC_HUvfbHdVwwFoNrbYf4Gn8w3Q5KAyQBtH)<br>🦆 **Eleduck**: [Profile](https://eleduck.com/profile/info)<br>🐙 **GitHub**: [liguojing112](https://github.com/liguojing112) | <img src="https://raw.githubusercontent.com/liguojing112/liguojing112/main/wechat_qr.jpg" width="120"> |
 
 ---
 
