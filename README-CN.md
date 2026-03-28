@@ -16,6 +16,10 @@
 
 ## 😉 很高兴认识你！
 
+<p align="center" style="margin-left: 500px;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E5%8F%AB%E6%9D%8E%E5%9B%BD%E6%95%AC%EF%BC%8C%E6%99%BA%E8%83%BD%E5%B7%A5%E5%85%B7%E5%88%B6%E4%BD%9C;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85+%7C+AI%E7%88%B1%E5%A5%BD%E8%80%85+%7C+%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86" alt="Typing SVG" /></a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/%20你好%2C%20我叫%20李国敬%20-FFB6C1?style=flat-square&logo=github&logoColor=white" />
   <br>
