@@ -1,4 +1,18 @@
 <!-- Dynamic welcome message -->
+## 🔤 Language
+
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+  <div>此篇是英文版</div>
+  <div>
+    🇨🇳 中文版请阅读 <a href="README-CN.md">README-CN.md</a>
+  </div>
+  <div>
+    <a href="README.md"><img src="https://img.shields.io/badge/English-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    <a href="README-CN.md"><img src="https://img.shields.io/badge/中文版-FFB6C1?style=flat-square&logo=github&logoColor=white"/></a>
+  </div>
+</div>
+
+---
 ## 😉 Pleased to meet you!
 
 <p align="center">
