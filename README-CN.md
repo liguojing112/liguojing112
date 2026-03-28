@@ -2,13 +2,11 @@
 ## 😉 很高兴认识你！
 
 <p align="center">
-  <span style="background-color: #FFB6C1; padding: 10px 20px; border-radius: 30px; display: inline-block; color: white; font-weight: bold; font-size: 1.2em;">
-    🌟 Hello, 我叫李国敬 🌟
-  </span><br>
-  <span style="background-color: #FFA07A; padding: 6px 18px; border-radius: 30px; display: inline-block; color: white; margin-top: 10px;">
-    全栈开发者 · 人工智能爱好者 · 智能工具构建
-  </span>
+  <img src="https://img.shields.io/badge/%20你好%2C%20我叫%20李国敬%20-FFB6C1?style=flat-square&logo=github&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/全栈开发者%20·%20AI爱好者%20·%20打造智能工具-FFA07A?style=flat-square" />
 </p>
+
 ---
 
 <!-- 社交徽章 -->
