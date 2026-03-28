@@ -1,5 +1,5 @@
 <!-- Dynamic welcome message -->
-## 🔤 Language
+## 🔤 Language/语言
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <div>此篇是英文版</div>
