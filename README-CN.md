@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/%20你好%2C%20我叫%20李国敬%20-FFB6C1?style=flat-square&logo=github&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/全栈开发者%20·%20AI爱好者%20·%20打造智能工具-FFA07A?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤖全栈开发者%20·%20AI爱好者%20·%20打造智能工具🤖-FFA07A?style=flat-square" />
+  <br>
+  <img src="https://img.shields.io/badge/📚%20持续学习%20·%20保持好奇%20📚-FFE4B5?style=flat-square" />
 </p>
 
 ---
