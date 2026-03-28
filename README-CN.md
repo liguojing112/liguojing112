@@ -16,7 +16,7 @@
 
 ## 😉 很高兴认识你！
 
-<div align="center">
+<div style="display: flex; justify-content: flex-end; margin: 20px 0;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E5%8F%AB%E6%9D%8E%E5%9B%BD%E6%95%AC;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85+%7C+AI+%E6%99%BA%E8%83%BD%E5%B7%A5%E5%85%B7%E5%88%B6%E4%BD%9C" alt="Typing SVG" />
   </a>
