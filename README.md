@@ -92,7 +92,7 @@
 ## 📫 Let's Connect
 
 - 📧 **QQ邮箱**: 3425228104@qq.com  
-- 💬 **Telegram**: [guojingli](https://t.me/guojingli)  
+- 💬 **Telegram**: [liguojing112](https://t.me/liguojing112)  
 - 🐦 **X**: [@BoHai91545](https://x.com/BoHai91545)  
 - 👤 **Facebook**: [Bo Hai](https://www.facebook.com/profile.php?id=61577504247349)  
 - 🌐 **电鸭社区**: [个人主页](https://eleduck.com/profile/info)  
