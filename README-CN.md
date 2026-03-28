@@ -2,7 +2,7 @@
 ## 😉 很高兴认识你！
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+LiGuojing;全栈+|+AI;打造智能工具&font=Fira%20Code&center=true&width=440&height=45&color=FFB6C1&vCenter=true&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+LiGuojing;Full-stack+Developer+|+AI;Building+Smart+Tools&font=Fira%20Code&center=true&width=440&height=45&color=FFB6C1&vCenter=true&size=22&pause=1000" />
 </p>
 
 ---
