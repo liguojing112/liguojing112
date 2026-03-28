@@ -89,12 +89,16 @@
 
 ## 📫 Let's Connect
 
-- 📧 **QQ Mail**: 3425228104@qq.com  
+## 📫 Let's Connect
+
+- 📧 **QQ邮箱**: 3425228104@qq.com  
 - 💬 **Telegram**: [guojingli](https://t.me/guojingli)  
 - 🐦 **X**: [@BoHai91545](https://x.com/BoHai91545)  
 - 👤 **Facebook**: [Bo Hai](https://www.facebook.com/profile.php?id=61577504247349)  
-- 🌐 **eleduck.com**: [Profile](https://eleduck.com/profile/info)  
-- 🐙 **GitHub**: [liguojing112](https://github.com/liguojing112)
+- 🌐 **电鸭社区**: [个人主页](https://eleduck.com/profile/info)  
+- 🐙 **GitHub**: [liguojing112](https://github.com/liguojing112)  
+- 💬 **微信**：扫码添加  
+  <img src="assets/wechat_qr.jpg" width="120" />
 
 ---
 
