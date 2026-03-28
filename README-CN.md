@@ -2,9 +2,13 @@
 ## 😉 很高兴认识你！
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+LiGuojing;Full-stack+Developer+|+AI;Building+Smart+Tools&font=Fira%20Code&center=true&width=440&height=45&color=FFB6C1&vCenter=true&size=22&pause=1000" />
+  <span style="background-color: #FFB6C1; padding: 10px 20px; border-radius: 30px; display: inline-block; color: white; font-weight: bold; font-size: 1.2em;">
+    🌟 Hello, 我叫李国敬 🌟
+  </span><br>
+  <span style="background-color: #FFA07A; padding: 6px 18px; border-radius: 30px; display: inline-block; color: white; margin-top: 10px;">
+    全栈开发者 · 人工智能爱好者 · 智能工具构建
+  </span>
 </p>
-
 ---
 
 <!-- 社交徽章 -->
