@@ -9,7 +9,7 @@
 
 <!-- Contact badges -->
 
-## 🔧 Tech Stack
+## 🌐 Social networking platform
 
 <p align="center">
   <a href="https://github.com/liguojing112"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -86,8 +86,6 @@
 > **Tech**: MediaPipe, OpenCV, Python.
 
 ---
-
-## 📫 Let's Connect
 
 ## 📫 Let's Connect
 
