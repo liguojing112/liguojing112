@@ -1,6 +1,5 @@
 <!-- 动态欢迎语 -->
-## 😉 很高兴认识你！
-
+##🔤 Language
 > EN Please read the English version [README.md](README.md)
 <p align="right">
   <a href="README.md"><img src="https://img.shields.io/badge/English-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -18,6 +17,7 @@
 ---
 
 <!-- 社交徽章 -->
+## 😉 很高兴认识你！
 
 ## 🌐 社交平台（小海波）
 
