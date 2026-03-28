@@ -21,6 +21,14 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+LiGuojing;Full-stack+Developer+|+AI;Building+Smart+Tools&font=Fira%20Code&center=true&width=440&height=45&color=FFB6C1&vCenter=true&size=22&pause=1000" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/%20Hello%2C%20I'm%20Li%20Guojing%20-FFB6C1?style=flat-square&logo=github&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/🤖Full--stack%20Developer%20·%20AI%20Enthusiast%20·%20Building%20Smart%20Tools🤖-FFA07A?style=flat-square" />
+  <br>
+  <img src="https://img.shields.io/badge/📚%20Keep%20Learning%20·%20Stay%20Curious%20📚-FFE4B5?style=flat-square" />
+</p>
+
 ---
 
 <!-- Contact badges -->
