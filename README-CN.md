@@ -1,6 +1,12 @@
 <!-- 动态欢迎语 -->
 ## 😉 很高兴认识你！
 
+> EN Please read the English version [README.md](README.md)
+<p align="right">
+  <a href="README.md"><img src="https://img.shields.io/badge/English-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="README-CN.md"><img src="https://img.shields.io/badge/中文版-FFB6C1?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/%20你好%2C%20我叫%20李国敬%20-FFB6C1?style=flat-square&logo=github&logoColor=white" />
   <br>
